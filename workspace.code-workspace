@@ -7,5 +7,20 @@
 			"path": "..\\..\\..\\eclipse-workspace"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"cachebuster",
+			"demolibrary",
+			"frameworklowercase",
+			"libraryname",
+			"librarynamespace",
+			"messagebundle",
+			"projects",
+			"reusecomponent",
+			"sap",
+			"sapui",
+			"te",
+			"ui"
+		]
+	}
 }
